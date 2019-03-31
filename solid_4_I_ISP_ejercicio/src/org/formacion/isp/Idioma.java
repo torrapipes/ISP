@@ -14,6 +14,5 @@ public enum Idioma {
 	private Idioma(String ... palabras) {
 		this.diccionario = Arrays.asList(palabras);
 	}
-	
 
 }
